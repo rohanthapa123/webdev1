@@ -525,12 +525,14 @@ li.fade{
 /* section 4 */
 .portfolio{
     height: 100vh;
-    background-color: rgb(97, 145, 129);
+    background-image: linear-gradient(to top, rgb(97, 145, 129), #65C18C);
+    
 }
 /* End of section 4 */
 /* section 5 */
 .contact{
     height: 50vh;
-    background-color: blueviolet;
+    background-image: linear-gradient(to top,blueviolet , rgb(97, 145, 129));
+    
 }
 /* End of section 5 */
